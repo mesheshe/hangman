@@ -1,0 +1,7 @@
+.vscode/*
+*.exe
+.venv/
+__pycache__/
+.gitignore/
+**/node_modules
+**/credentials.js
